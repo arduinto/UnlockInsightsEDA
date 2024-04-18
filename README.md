@@ -93,3 +93,6 @@
 
 ![FreqOfCustStatements](https://github.com/arduinto/UnlockInsightsEDA/assets/142419799/be508b0a-0a71-4369-8d0d-cad6d7618a05)
 
+![image](https://github.com/arduinto/UnlockInsightsEDA/assets/142419799/d32842c1-aea0-460f-a1b2-3815d31a49c5)
+
+![FeaturesDistr](https://github.com/arduinto/UnlockInsightsEDA/assets/142419799/719196d5-75e7-41e6-bd5b-ad11c604885a)
