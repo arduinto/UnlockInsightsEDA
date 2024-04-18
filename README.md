@@ -1,22 +1,5 @@
 ﻿# UnlockInsightsEDA
-<style type="text/css">
-#T_73713_row0_col1, #T_73713_row0_col2 {
-  background-color: #800026;
-  color: #f1f1f1;
-}
-#T_73713_row1_col1, #T_73713_row1_col2 {
-  background-color: #fffdc8;
-  color: #000000;
-}
-#T_73713_row2_col1, #T_73713_row2_col2, #T_73713_row5_col1, #T_73713_row5_col2, #T_73713_row6_col1, #T_73713_row6_col2, #T_73713_row7_col1, #T_73713_row7_col2, #T_73713_row8_col1, #T_73713_row8_col2, #T_73713_row9_col1, #T_73713_row9_col2, #T_73713_row10_col1, #T_73713_row10_col2, #T_73713_row11_col1, #T_73713_row11_col2, #T_73713_row12_col1, #T_73713_row12_col2 {
-  background-color: #ffffcc;
-  color: #000000;
-}
-#T_73713_row3_col1, #T_73713_row3_col2, #T_73713_row4_col1, #T_73713_row4_col2 {
-  background-color: #fffecb;
-  color: #000000;
-}
-</style>
+ 
 <table id="T_73713">
   <thead>
     <tr>
