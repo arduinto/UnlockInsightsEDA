@@ -1,5 +1,18 @@
 ﻿# UnlockInsightsEDA
+##### __GOAL__
+The main task is to use historical data about a customer, which is collected month-by-month (like their spending habits, payment patterns, credit card balances, etc.) to estimate the likelihood that they will fail to repay what they owe on their credit card in the future.
 
+Here, the _"target binary variable"_ is what participants of the competition are trying to predict. It's binary because it has two possible values:
+* "default" (customer didn't pay), or
+* "no default" (customer paid).
+
+The way this target is determined is by watching the customer's behavior for 18 months after their most recent credit card statement. If, during those 18 months of observation, the customer fails to make a payment within 120 days (4 months) from the date of their last statement, they are marked as having defaulted on their credit card balance. So, even if they make a payment on the 121st day or anytime after, for the purposes of this competition, they're categorized as having defaulted.
+
+##### __Analysis of Credit Card Statements per Customer__
+1. A significant majority, precisely 80%, of our customers have 13 statements.
+2. The remaining 20% possess a varied number of statements, ranging from 1 to 12.
+
+__Insight__: The model cannot handle this variation in statement counts because it cannot handle different input sizes for each customer. An alternative approach to address this variability might be to consider only the latest statement or compute an average across all statements for each customer. Some machine learning models can indeed handle variable input sizes (like recurrent neural networks for sequences), while others require fixed-size inputs.
 ### Raw Data
 
 <table border="1" class="dataframe">
