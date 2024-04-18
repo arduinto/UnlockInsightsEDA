@@ -90,3 +90,6 @@
     </tr>
   </tbody>
 </table>
+
+![FreqOfCustStatements](https://github.com/arduinto/UnlockInsightsEDA/assets/142419799/be508b0a-0a71-4369-8d0d-cad6d7618a05)
+
