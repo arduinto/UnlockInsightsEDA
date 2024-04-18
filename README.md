@@ -391,6 +391,261 @@
   </tbody>
 </table>
 
+### Identified Missing Value
+
+<table id="T_fc073">
+  <thead>
+    <tr>
+      <th class="blank level0" >&nbsp;</th>
+      <th id="T_fc073_level0_col0" class="col_heading level0 col0" >Feature</th>
+      <th id="T_fc073_level0_col1" class="col_heading level0 col1" >Number of Missing Values</th>
+      <th id="T_fc073_level0_col2" class="col_heading level0 col2" >% Missing Values</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th id="T_fc073_level0_row0" class="row_heading level0 row0" >0</th>
+      <td id="T_fc073_row0_col0" class="data row0 col0" >D_87</td>
+      <td id="T_fc073_row0_col1" class="data row0 col1" >5527586</td>
+      <td id="T_fc073_row0_col2" class="data row0 col2" >99.930000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row1" class="row_heading level0 row1" >1</th>
+      <td id="T_fc073_row1_col0" class="data row1 col0" >D_88</td>
+      <td id="T_fc073_row1_col1" class="data row1 col1" >5525447</td>
+      <td id="T_fc073_row1_col2" class="data row1 col2" >99.890000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row2" class="row_heading level0 row2" >2</th>
+      <td id="T_fc073_row2_col0" class="data row2 col0" >D_108</td>
+      <td id="T_fc073_row2_col1" class="data row2 col1" >5502513</td>
+      <td id="T_fc073_row2_col2" class="data row2 col2" >99.480000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row3" class="row_heading level0 row3" >3</th>
+      <td id="T_fc073_row3_col0" class="data row3 col0" >D_111</td>
+      <td id="T_fc073_row3_col1" class="data row3 col1" >5500117</td>
+      <td id="T_fc073_row3_col2" class="data row3 col2" >99.430000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row4" class="row_heading level0 row4" >4</th>
+      <td id="T_fc073_row4_col0" class="data row4 col0" >D_110</td>
+      <td id="T_fc073_row4_col1" class="data row4 col1" >5500117</td>
+      <td id="T_fc073_row4_col2" class="data row4 col2" >99.430000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row5" class="row_heading level0 row5" >5</th>
+      <td id="T_fc073_row5_col0" class="data row5 col0" >B_39</td>
+      <td id="T_fc073_row5_col1" class="data row5 col1" >5497819</td>
+      <td id="T_fc073_row5_col2" class="data row5 col2" >99.390000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row6" class="row_heading level0 row6" >6</th>
+      <td id="T_fc073_row6_col0" class="data row6 col0" >D_73</td>
+      <td id="T_fc073_row6_col1" class="data row6 col1" >5475595</td>
+      <td id="T_fc073_row6_col2" class="data row6 col2" >98.990000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row7" class="row_heading level0 row7" >7</th>
+      <td id="T_fc073_row7_col0" class="data row7 col0" >B_42</td>
+      <td id="T_fc073_row7_col1" class="data row7 col1" >5459973</td>
+      <td id="T_fc073_row7_col2" class="data row7 col2" >98.710000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row8" class="row_heading level0 row8" >8</th>
+      <td id="T_fc073_row8_col0" class="data row8 col0" >D_136</td>
+      <td id="T_fc073_row8_col1" class="data row8 col1" >5336752</td>
+      <td id="T_fc073_row8_col2" class="data row8 col2" >96.480000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row9" class="row_heading level0 row9" >9</th>
+      <td id="T_fc073_row9_col0" class="data row9 col0" >D_138</td>
+      <td id="T_fc073_row9_col1" class="data row9 col1" >5336752</td>
+      <td id="T_fc073_row9_col2" class="data row9 col2" >96.480000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row10" class="row_heading level0 row10" >10</th>
+      <td id="T_fc073_row10_col0" class="data row10 col0" >D_137</td>
+      <td id="T_fc073_row10_col1" class="data row10 col1" >5336752</td>
+      <td id="T_fc073_row10_col2" class="data row10 col2" >96.480000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row11" class="row_heading level0 row11" >11</th>
+      <td id="T_fc073_row11_col0" class="data row11 col0" >D_135</td>
+      <td id="T_fc073_row11_col1" class="data row11 col1" >5336752</td>
+      <td id="T_fc073_row11_col2" class="data row11 col2" >96.480000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row12" class="row_heading level0 row12" >12</th>
+      <td id="T_fc073_row12_col0" class="data row12 col0" >D_134</td>
+      <td id="T_fc073_row12_col1" class="data row12 col1" >5336752</td>
+      <td id="T_fc073_row12_col2" class="data row12 col2" >96.480000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row13" class="row_heading level0 row13" >13</th>
+      <td id="T_fc073_row13_col0" class="data row13 col0" >R_9</td>
+      <td id="T_fc073_row13_col1" class="data row13 col1" >5218918</td>
+      <td id="T_fc073_row13_col2" class="data row13 col2" >94.350000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row14" class="row_heading level0 row14" >14</th>
+      <td id="T_fc073_row14_col0" class="data row14 col0" >B_29</td>
+      <td id="T_fc073_row14_col1" class="data row14 col1" >5150035</td>
+      <td id="T_fc073_row14_col2" class="data row14 col2" >93.100000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row15" class="row_heading level0 row15" >15</th>
+      <td id="T_fc073_row15_col0" class="data row15 col0" >D_106</td>
+      <td id="T_fc073_row15_col1" class="data row15 col1" >4990102</td>
+      <td id="T_fc073_row15_col2" class="data row15 col2" >90.210000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row16" class="row_heading level0 row16" >16</th>
+      <td id="T_fc073_row16_col0" class="data row16 col0" >D_132</td>
+      <td id="T_fc073_row16_col1" class="data row16 col1" >4988874</td>
+      <td id="T_fc073_row16_col2" class="data row16 col2" >90.190000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row17" class="row_heading level0 row17" >17</th>
+      <td id="T_fc073_row17_col0" class="data row17 col0" >D_49</td>
+      <td id="T_fc073_row17_col1" class="data row17 col1" >4985917</td>
+      <td id="T_fc073_row17_col2" class="data row17 col2" >90.140000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row18" class="row_heading level0 row18" >18</th>
+      <td id="T_fc073_row18_col0" class="data row18 col0" >R_26</td>
+      <td id="T_fc073_row18_col1" class="data row18 col1" >4922146</td>
+      <td id="T_fc073_row18_col2" class="data row18 col2" >88.980000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row19" class="row_heading level0 row19" >19</th>
+      <td id="T_fc073_row19_col0" class="data row19 col0" >D_76</td>
+      <td id="T_fc073_row19_col1" class="data row19 col1" >4908954</td>
+      <td id="T_fc073_row19_col2" class="data row19 col2" >88.750000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row20" class="row_heading level0 row20" >20</th>
+      <td id="T_fc073_row20_col0" class="data row20 col0" >D_66</td>
+      <td id="T_fc073_row20_col1" class="data row20 col1" >4908097</td>
+      <td id="T_fc073_row20_col2" class="data row20 col2" >88.730000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row21" class="row_heading level0 row21" >21</th>
+      <td id="T_fc073_row21_col0" class="data row21 col0" >D_42</td>
+      <td id="T_fc073_row21_col1" class="data row21 col1" >4740137</td>
+      <td id="T_fc073_row21_col2" class="data row21 col2" >85.690000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row22" class="row_heading level0 row22" >22</th>
+      <td id="T_fc073_row22_col0" class="data row22 col0" >D_142</td>
+      <td id="T_fc073_row22_col1" class="data row22 col1" >4587043</td>
+      <td id="T_fc073_row22_col2" class="data row22 col2" >82.930000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row23" class="row_heading level0 row23" >23</th>
+      <td id="T_fc073_row23_col0" class="data row23 col0" >D_53</td>
+      <td id="T_fc073_row23_col1" class="data row23 col1" >4084585</td>
+      <td id="T_fc073_row23_col2" class="data row23 col2" >73.840000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row24" class="row_heading level0 row24" >24</th>
+      <td id="T_fc073_row24_col0" class="data row24 col0" >D_82</td>
+      <td id="T_fc073_row24_col1" class="data row24 col1" >4058614</td>
+      <td id="T_fc073_row24_col2" class="data row24 col2" >73.370000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row25" class="row_heading level0 row25" >25</th>
+      <td id="T_fc073_row25_col0" class="data row25 col0" >D_50</td>
+      <td id="T_fc073_row25_col1" class="data row25 col1" >3142402</td>
+      <td id="T_fc073_row25_col2" class="data row25 col2" >56.810000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row26" class="row_heading level0 row26" >26</th>
+      <td id="T_fc073_row26_col0" class="data row26 col0" >B_17</td>
+      <td id="T_fc073_row26_col1" class="data row26 col1" >3137598</td>
+      <td id="T_fc073_row26_col2" class="data row26 col2" >56.720000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row27" class="row_heading level0 row27" >27</th>
+      <td id="T_fc073_row27_col0" class="data row27 col0" >D_105</td>
+      <td id="T_fc073_row27_col1" class="data row27 col1" >3021431</td>
+      <td id="T_fc073_row27_col2" class="data row27 col2" >54.620000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row28" class="row_heading level0 row28" >28</th>
+      <td id="T_fc073_row28_col0" class="data row28 col0" >D_56</td>
+      <td id="T_fc073_row28_col1" class="data row28 col1" >2990943</td>
+      <td id="T_fc073_row28_col2" class="data row28 col2" >54.070000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row29" class="row_heading level0 row29" >29</th>
+      <td id="T_fc073_row29_col0" class="data row29 col0" >S_9</td>
+      <td id="T_fc073_row29_col1" class="data row29 col1" >2933643</td>
+      <td id="T_fc073_row29_col2" class="data row29 col2" >53.040000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row30" class="row_heading level0 row30" >30</th>
+      <td id="T_fc073_row30_col0" class="data row30 col0" >D_77</td>
+      <td id="T_fc073_row30_col1" class="data row30 col1" >2513912</td>
+      <td id="T_fc073_row30_col2" class="data row30 col2" >45.450000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row31" class="row_heading level0 row31" >31</th>
+      <td id="T_fc073_row31_col0" class="data row31 col0" >D_43</td>
+      <td id="T_fc073_row31_col1" class="data row31 col1" >1658396</td>
+      <td id="T_fc073_row31_col2" class="data row31 col2" >29.980000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row32" class="row_heading level0 row32" >32</th>
+      <td id="T_fc073_row32_col0" class="data row32 col0" >S_27</td>
+      <td id="T_fc073_row32_col1" class="data row32 col1" >1400935</td>
+      <td id="T_fc073_row32_col2" class="data row32 col2" >25.330000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row33" class="row_heading level0 row33" >33</th>
+      <td id="T_fc073_row33_col0" class="data row33 col0" >D_46</td>
+      <td id="T_fc073_row33_col1" class="data row33 col1" >1211699</td>
+      <td id="T_fc073_row33_col2" class="data row33 col2" >21.910000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row34" class="row_heading level0 row34" >34</th>
+      <td id="T_fc073_row34_col0" class="data row34 col0" >S_7</td>
+      <td id="T_fc073_row34_col1" class="data row34 col1" >1020544</td>
+      <td id="T_fc073_row34_col2" class="data row34 col2" >18.450000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row35" class="row_heading level0 row35" >35</th>
+      <td id="T_fc073_row35_col0" class="data row35 col0" >S_3</td>
+      <td id="T_fc073_row35_col1" class="data row35 col1" >1020544</td>
+      <td id="T_fc073_row35_col2" class="data row35 col2" >18.450000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row36" class="row_heading level0 row36" >36</th>
+      <td id="T_fc073_row36_col0" class="data row36 col0" >D_62</td>
+      <td id="T_fc073_row36_col1" class="data row36 col1" >758161</td>
+      <td id="T_fc073_row36_col2" class="data row36 col2" >13.710000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row37" class="row_heading level0 row37" >37</th>
+      <td id="T_fc073_row37_col0" class="data row37 col0" >D_48</td>
+      <td id="T_fc073_row37_col1" class="data row37 col1" >718725</td>
+      <td id="T_fc073_row37_col2" class="data row37 col2" >12.990000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row38" class="row_heading level0 row38" >38</th>
+      <td id="T_fc073_row38_col0" class="data row38 col0" >D_61</td>
+      <td id="T_fc073_row38_col1" class="data row38 col1" >598052</td>
+      <td id="T_fc073_row38_col2" class="data row38 col2" >10.810000</td>
+    </tr>
+    <tr>
+      <th id="T_fc073_level0_row39" class="row_heading level0 row39" >39</th>
+      <td id="T_fc073_row39_col0" class="data row39 col0" >P_3</td>
+      <td id="T_fc073_row39_col1" class="data row39 col1" >301492</td>
+      <td id="T_fc073_row39_col2" class="data row39 col2" >5.450000</td>
+    </tr>
+  </tbody>
+</table>
+
 ![FreqOfCustStatements](https://github.com/arduinto/UnlockInsightsEDA/assets/142419799/be508b0a-0a71-4369-8d0d-cad6d7618a05)
 
 ![image](https://github.com/arduinto/UnlockInsightsEDA/assets/142419799/d32842c1-aea0-460f-a1b2-3815d31a49c5)
