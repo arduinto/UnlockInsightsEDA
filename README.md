@@ -683,3 +683,6 @@ __Insight:__
 
 Every feature has at most eight categories (including a nan category). One-hot encodings are feasible.
 The distributions for target=0 and target=1 differ. This means that every feature might give some information about the target.
+
+![barstack-distributioncategoricalvariables](https://github.com/arduinto/UnlockInsightsEDA/assets/142419799/7127d41a-4cf1-4304-abb8-4ce867fff85b)
+
