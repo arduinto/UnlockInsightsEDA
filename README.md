@@ -665,7 +665,8 @@ __Insight__: The model cannot handle this variation in statement counts because 
 
 ![FeaturesDistr](https://github.com/arduinto/UnlockInsightsEDA/assets/142419799/719196d5-75e7-41e6-bd5b-ad11c604885a)
 
-![Uploading barplot-targetdistribution.png…]()
+![barplot-targetdistribution](https://github.com/arduinto/UnlockInsightsEDA/assets/142419799/7fc82730-9435-4cc9-b0f7-b03c91a021cc)
+
 We start by reading the labels for the training data. There are neither missing values nor duplicated customer_IDs. Of the 458913 customer_IDs, 74 % have a label of 0 (good customer, no default) and 26 % have a label of 1 (bad customer, default).
 
 We know that the good customers have been subsampled by a factor of 20; this means that in reality there are 6.8 million good customers. 98 % of the customers are good; 2 % are bad.
