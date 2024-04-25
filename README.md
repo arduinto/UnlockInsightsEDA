@@ -664,3 +664,21 @@ __Insight__: The model cannot handle this variation in statement counts because 
 ![image](https://github.com/arduinto/UnlockInsightsEDA/assets/142419799/d32842c1-aea0-460f-a1b2-3815d31a49c5)
 
 ![FeaturesDistr](https://github.com/arduinto/UnlockInsightsEDA/assets/142419799/719196d5-75e7-41e6-bd5b-ad11c604885a)
+
+![Uploading barplot-targetdistribution.png…]()
+We start by reading the labels for the training data. There are neither missing values nor duplicated customer_IDs. Of the 458913 customer_IDs, 74 % have a label of 0 (good customer, no default) and 26 % have a label of 1 (bad customer, default).
+
+We know that the good customers have been subsampled by a factor of 20; this means that in reality there are 6.8 million good customers. 98 % of the customers are good; 2 % are bad.
+
+__Insight:__
+
+__The classes are imbalanced__. A StratifiedKFold for cross-validation is recommended. Because the classes are imbalanced, accuracy would be a bad metric to evaluate a classifier. The competition metric is a mix of area under the roc curve (auc) and recall.
+
+![barplot-targetcategoricalvariables](https://github.com/arduinto/UnlockInsightsEDA/assets/142419799/3d78d9cc-e1b5-4f51-bdc8-693b620b3f84)
+
+According to the data description, there are eleven categorical features. We plot histograms for target=0 and target=1. For the features which have missing values, the missing values are represented by the rightmost bar of the histogram.
+
+__Insight:__
+
+Every feature has at most eight categories (including a nan category). One-hot encodings are feasible.
+The distributions for target=0 and target=1 differ. This means that every feature might give some information about the target.
